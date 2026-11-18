@@ -1,8 +1,4 @@
-# Data-Cleaning-Visualization-Project
-Data cleaning, preprocessing, exploratory data analysis and visualization using Python, Pandas, Matplotlib and Seaborn.
-
 # Data Cleaning and Visualization Project
-
 ## 1. Project Overview
 
 This project focuses on cleaning, processing, analyzing, and visualizing a raw dataset using Python. The Titanic Passenger Dataset is used to demonstrate data preprocessing techniques and extract meaningful insights through exploratory data analysis (EDA).
